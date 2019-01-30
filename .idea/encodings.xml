@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/admin-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/message-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/message-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/message-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/message-center/message-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/message-center/message-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/message-center/message-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/message-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/message-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-center/order-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-center/order-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/registry-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trank" charset="UTF-8" />
+  </component>
+</project>

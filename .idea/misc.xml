@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/admin-center/pom.xml" />
+        <option value="$PROJECT_DIR$/common-service/pom.xml" />
+        <option value="$PROJECT_DIR$/config-center/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway-center/pom.xml" />
+        <option value="$PROJECT_DIR$/registry-center/pom.xml" />
+        <option value="$PROJECT_DIR$/message-api/pom.xml" />
+        <option value="$PROJECT_DIR$/message-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/message-service/pom.xml" />
+        <option value="$PROJECT_DIR$/order-api/pom.xml" />
+        <option value="$PROJECT_DIR$/order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/trank/pom.xml" />
+        <option value="$PROJECT_DIR$/order-center/pom.xml" />
+        <option value="$PROJECT_DIR$/message-center/pom.xml" />
+        <option value="$PROJECT_DIR$/order-center/order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/order-center/order-api/pom.xml" />
+        <option value="$PROJECT_DIR$/message-center/message-api/pom.xml" />
+        <option value="$PROJECT_DIR$/message-center/message-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/message-center/message-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
